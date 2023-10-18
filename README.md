@@ -4,15 +4,15 @@ Java 11 used (javac 11.0.18)
 
 ## Compilation:  
 
-javac MatchingEngine.java
+$ javac MatchingEngine.java
 
 ## Execution:    
 
-java MatchingEngine
+$ java MatchingEngine
 
 ## Dependencies: 
 
-Order.java, MarketOrder.java, LimitOrder.java
+Order.java, MarketOrder.java, LimitOrder.java, Book.java
 
 ## Examples of inputs and outputs in one execution:
 
